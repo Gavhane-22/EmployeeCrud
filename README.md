@@ -1,0 +1,1 @@
+This is a simple Employee Management System built using Spring Boot that performs CRUD (Create, Read, Update, Delete) operations. The application allows users to manage employee records efficiently with a RESTful API and a database backend.
